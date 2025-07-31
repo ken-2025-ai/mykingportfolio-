@@ -20,13 +20,13 @@ I'm a highly motivated and curious software developer with strong skills in:
 
 ## 🔥 Featured Projects
 
-### 💼 [Digital Wallet & Money Transfer Admin Panel](https://github.com/ken-2025-ai/money-transfer-app)
+### 💼 [Digital Wallet & Money Transfer Admin Panel](https://ken-money-app254.netlify.app/)
 A secure app with QR payments, voice control, M-PESA integration, and dynamic fees.
 
-### 🐄 [Livestock Management System](https://github.com/ken-2025-ai/livestock-manager)
+### 🐄 [Livestock Management System](https://farmsite-manager-kendagor.netlify.app/)
 Manages cattle records, vaccinations, feeding, and breeding alerts with delivery auto-dates.
 
-### 📊 [CBC Pro Ranker](https://github.com/ken-2025-ai/cbc-pro-ranker)
+### 📊 [CBC Pro Ranker](https://cbc-kendagor.netlify.app/)
 A ranking and report generation system aligned to the Kenyan CBC system, with graphs and filters.
 
 ---
